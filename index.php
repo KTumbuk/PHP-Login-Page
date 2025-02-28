@@ -5,8 +5,12 @@ function loadPage($page): void{
   switch ($page){
     case 'home':
       include 'file_/home.php';
+      break;
+    case 'login':
+      include 'file_/login.php';
+      break;
   default :
-      echo "404 - not found";
+      include "file_/notfound.php";
       break;  
   }
 }

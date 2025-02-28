@@ -51,7 +51,7 @@
           </li>
         </ul>
 
-        <a href="index.php?page=login" class="btn btn-warning fw-bolder" style="border-radius: 20px;">Login <i class="bi bi-arrow-right "></i></a>
+        <a href="index.php?page=home" class="btn btn-warning fw-bolder" style="border-radius: 20px;">Back <i class="bi bi-arrow-right "></i></a>
       </div>
     </div>
   </nav>
